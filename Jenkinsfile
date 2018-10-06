@@ -13,7 +13,7 @@ node {
       '''
       }
    stage('Results') {
-      echo "Unites
+      echo "Unites"
       build job:'Build'
      
    }
